@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-    spec.name     = "jekyll-theme-systemlogs"
+    spec.name     = "jekyll-theme-opensuse"
     spec.version  = "0.7.1"
-    spec.authors  = ["aunixdude]
+    spec.authors  = ["Stasiek Michalski", "Guo Yunhe"]
     spec.summary  = "Jekyll theme for openSUSE websites"
     spec.homepage = "https://github.com/openSUSE/jekyll-theme"
     spec.license  = "GPL-3.0-or-later"
