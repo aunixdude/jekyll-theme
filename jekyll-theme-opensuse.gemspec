@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
     spec.name     = "jekyll-theme-systemlogs"
-    spec.version  = "0.1.1"
+    spec.version  = "0.7.1"
     spec.authors  = ["aunixdude]
     spec.summary  = "Jekyll theme for openSUSE websites"
     spec.homepage = "https://github.com/openSUSE/jekyll-theme"
